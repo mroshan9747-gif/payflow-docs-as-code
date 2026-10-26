@@ -1,20 +1,19 @@
 # Getting Started
 
-Welcome to PayFlow!
+This guide introduces the PayFlow payment platform and explains its basic payment workflow.
 
-This guide introduces the basic concepts of the fictional PayFlow payment platform.
+## Overview
+
+PayFlow is a fictional payment platform used in this portfolio to demonstrate product documentation, technical writing, and Docs as Code practices.
 
 ## Prerequisites
 
-Before using PayFlow, you should:
+Before exploring the documentation, you should understand:
 
-- Have an active PayFlow account.
-- Have access to the payment dashboard.
-- Understand the basic payment workflow.
+- Basic payment processing concepts
+- The difference between a payment request and a transaction status
+- Basic navigation in a web application
 
-## Next Steps
-
-Learn how to [manage payments](payment-management.md) or explore the [API reference](api-reference.md).
 ## Understanding the Payment Workflow
 
 PayFlow processes payments through the following stages:
@@ -23,3 +22,8 @@ PayFlow processes payments through the following stages:
 2. Validate the payment details.
 3. Submit the payment for processing.
 4. Review the payment status in the transaction history.
+
+## Next Steps
+
+- Read the [Payment Management](payment-management.md) guide.
+- Explore the [API Reference](api-reference.md).
