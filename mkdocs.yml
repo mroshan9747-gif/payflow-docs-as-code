@@ -1,0 +1,22 @@
+site_name: PayFlow Documentation
+site_description: Technical documentation for the PayFlow payment platform
+site_author: PayFlow Documentation Team
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
